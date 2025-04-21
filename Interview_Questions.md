@@ -3,4 +3,4 @@
 2. How to check which version of linux the node is using?
 3. What do you do when the image in RS is not correct and containers in Error state?
 4. How do you scale pods in replicaSet?
-5. 
+5. What are the type of updates that can be done to a deployment?
